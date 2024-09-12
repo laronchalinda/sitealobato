@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+
+}
+.cabecalho{
+    background-color: rgb(255, 165, 243);
+}
+.corpo{
+    background-color: rgb(255, 213, 249);
+}
+.footer{
+    background-color: rgb(182, 112, 178);
+}
